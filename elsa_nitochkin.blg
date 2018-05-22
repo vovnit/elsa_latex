@@ -1,0 +1,64 @@
+This is BibTeX, Version 0.99d (TeX Live 2017/Debian)
+Capacity: max_strings=100000, hash_size=100000, hash_prime=85009
+The top-level auxiliary file: elsa_nitochkin.aux
+The style file: elsarticle-num.bst
+Database file #1: my_bib.bib
+Warning--entry type for "Goguadze:2005" isn't style-file defined
+--line 17 of file my_bib.bib
+Warning--entry type for "Henderson:2014" isn't style-file defined
+--line 23 of file my_bib.bib
+Warning--entry type for "viewplus" isn't style-file defined
+--line 147 of file my_bib.bib
+Warning--entry type for "diagram" isn't style-file defined
+--line 153 of file my_bib.bib
+Warning--entry type for "speech" isn't style-file defined
+--line 159 of file my_bib.bib
+Warning--entry type for "window-eyes" isn't style-file defined
+--line 186 of file my_bib.bib
+Warning--entry type for "job_access" isn't style-file defined
+--line 192 of file my_bib.bib
+Warning--entry type for "guideline" isn't style-file defined
+--line 198 of file my_bib.bib
+Warning--empty pages in Sorge:2014
+You've used 25 entries,
+            2937 wiz_defined-function locations,
+            823 strings with 9585 characters,
+and the built_in function-call counts, 7942 in all, are:
+= -- 743
+> -- 166
+< -- 17
++ -- 72
+- -- 47
+* -- 472
+:= -- 944
+add.period$ -- 25
+call.type$ -- 25
+change.case$ -- 27
+chr.to.int$ -- 0
+cite$ -- 26
+duplicate$ -- 331
+empty$ -- 1004
+format.name$ -- 59
+if$ -- 2211
+int.to.chr$ -- 0
+int.to.str$ -- 25
+missing$ -- 16
+newline$ -- 92
+num.names$ -- 20
+pop$ -- 232
+preamble$ -- 1
+purify$ -- 0
+quote$ -- 0
+skip$ -- 585
+stack$ -- 0
+substring$ -- 358
+swap$ -- 135
+text.length$ -- 17
+text.prefix$ -- 0
+top$ -- 0
+type$ -- 0
+warning$ -- 1
+while$ -- 43
+width$ -- 27
+write$ -- 221
+(There were 9 warnings)

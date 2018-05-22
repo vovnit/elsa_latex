@@ -1,0 +1,142 @@
+\begin{thebibliography}{10}
+\expandafter\ifx\csname url\endcsname\relax
+  \def\url#1{\texttt{#1}}\fi
+\expandafter\ifx\csname urlprefix\endcsname\relax\def\urlprefix{URL }\fi
+\expandafter\ifx\csname href\endcsname\relax
+  \def\href#1#2{#2} \def\path#1{#1}\fi
+
+\bibitem{Garderen:2012}
+D.~van Garderen, A.~Scheuermann, C.~Jackson, Developing representational
+  ability in mathematics for students with learning disabilities a content
+  analysis of grades 6 and 7 textbooks, {Learn. Disabil. Q.} 1 (2012) 23--38.
+
+\bibitem{Craiga:2013}
+S.~Craiga, X.~Hub, A.~Graesserb, A.~Bargagliottic, A.~Sterbinskyb, K.~Cheneyb,
+  T.~Okwumabuab, The impact of a technology-based mathematics after-school
+  program using aleks on student's knowledge and behaviours, Comput. Educ. 68
+  (2013) 495–504.
+
+\bibitem{Goguadze:2005}
+G.~Goguadze, A.~G. Paolo, E.~Melis,
+  \href{http://www.activemath.org/}{Interactivity of exercises in activemath,
+  ios press} (2005).
+\newline\urlprefix\url{http://www.activemath.org/}
+
+\bibitem{Henderson:2014}
+S.~Henderson,
+  \href{http://imasters.expert/minimatecavox-helps-visually-impaired-children-learn-mathematics/}{Minimatecavox:
+  “math teaching application aimed to visually impaired children in literacy
+  phase bibliotheca digital da unicamp 2014} (2014).
+\newline\urlprefix\url{http://imasters.expert/minimatecavox-helps-visually-impaired-children-learn-mathematics/}
+
+\bibitem{Sorge:2014}
+V.~Sorge, C.~Chen, T.~Raman, D.~Tseng.,
+  \href{http://dx.doi.org/10.1145/2596695.2596700}{Towards making mathematics a
+  first class citizen in general screen readers. proceeding w4a '14 proceedings
+  of the 11th web for all conference}, in: Article 2014, No. 40., Seoul, Korea,
+  2014.
+\newline\urlprefix\url{http://dx.doi.org/10.1145/2596695.2596700}
+
+\bibitem{Soiffer:2016}
+N.~Soiffer, A study of speech versus braille and large print of mathematical
+  expressions, computers helping people with special needs, in: 15th
+  International Conference, ICCHP, Springer Berlin Heidelberg, Linz, Austria,
+  2016, pp. 59--66, part I.
+
+\bibitem{Brzoza:2006}
+P.~Brzoza, D.~Spinczyk, Multimedia browser for internet online daisy books.
+  computers helping people with special needs, in: ICCHP 2006. 10th
+  International Conference, Vol. 4061 of LNCS, ICCHP, Linz, Austria, 2006, pp.
+  1087--1093.
+
+\bibitem{Brzoza:2008}
+P.~Brzoza, Multimedia mathreader for daisy books. computers helping people with
+  special needs, in: ICCHP 2008. 11th International Conference, Vol. 5105 of
+  LNCS, Linz, Austria, 2008, pp. 875--878.
+
+\bibitem{Spinczyk:2008}
+D.~Spinczyk, P.~Brzoza, Multimedia system for accessible distant education,
+  Inf. Technol. Biomed. 47 (2008) 513--517.
+
+\bibitem{Namahoe:2017}
+K.~Namahoe, Unveils new math resources for common core, Khan
+  AcademyHttps://thejournal.com/articles/2014/03/24/khan-academy-unveils-new-math-resources-for-common-core.aspx.
+
+\bibitem{Brzoza:2012}
+P.~Brzoza, E.~Łobos, J.~Macura, B.~Sikora, M.~Żabka, Formath intelligent
+  tutoring system in mathematics, in: 4th International Conference on Computer
+  Supported Education, CSEDU, Porto, Portugal, 2012, pp. 60--61.
+
+\bibitem{Brzoza:2014}
+P.~Brzoza, M.~Maćkowski, Intelligent tutoring math platform accessible for
+  visually impaired people. computers helping people with special needs, in:
+  ICCHP 2014. 14th International Conference, Vol. 8547 of LNCS, Linz, Austria,
+  2014, pp. 519--524.
+
+\bibitem{Bernareggi:2010}
+C.~Bernareggi, Non-sequential mathematical notations in the lambda system.
+  computers helping people with special needs, in: ICCHP 2010. 12th
+  International Conference, Vol. 6180 of LNCS, Linz, Austria, 2010, pp.
+  385--395.
+
+\bibitem{Nicotra:2010}
+G.~Nicotra, G.~Burton, E.~Bortolazzi, L.~Formenti, Innovative methods for
+  accessing mathematics by visually impaired users. computers helping people
+  with special needs, in: ICCHP 2010. 12th International Conference, Vol. 6180
+  of LNCS, Linz, Austria, 2010, pp. 423--430.
+
+\bibitem{Gardner:2012}
+J.~Gardner, N.~SoifferLife, Cycle of a daisy book with math: from authoring to
+  players conference technology and persons with disabilities, Los Angeles, USA
+  (2008).
+
+\bibitem{Fitzpatrick:2006}
+D.~Fitzpatrick, Mathematics: how and what to speak. computers helping people
+  with special needs, in: ICCHP 2006. 10th International Conference, Vol. 4061
+  of LNCS, Linz, Austria, 2006, pp. 1199--1206.
+
+\bibitem{viewplus}
+\href{https://viewplus.com/product/iveo-hands-on-learning-system/}{Talking
+  tactile tablet} (mar 2017).
+\newline\urlprefix\url{https://viewplus.com/product/iveo-hands-on-learning-system/}
+
+\bibitem{diagram}
+\href{http://diagramcenter.org/}{Diagram centre} (mar 2017).
+\newline\urlprefix\url{http://diagramcenter.org/}
+
+\bibitem{speech}
+V.~Sorge, \href{https://github.com/zorkow/speech-rule-engine}{Speech rule
+  engine} (mar 2017).
+\newline\urlprefix\url{https://github.com/zorkow/speech-rule-engine}
+
+\bibitem{Sorge:2016}
+V.~Sorge, Supporting visual impaired learners in editing mathematics.
+  proceeding assets '16, in: Proceedings of the 18th International ACM
+  SIGACCESS Conference on Computers and Accessibility, Reno, Nevada, USA, 2016,
+  p. 323–324.
+
+\bibitem{Wang:2015}
+K.~Wang, X.~Li, X.~Tian, On ambiguity issues of converting latex mathematical
+  formula to content mathml collaborative computing: Networking, applications,
+  and work sharin, in: 11th International Conference, CollaborateCom 2015, Vol.
+  2015, Springer International Publishing, Wuhan, China, 2015, pp. 289--295.
+
+\bibitem{window-eyes}
+\href{http://www.gwmicro.com/window-eyes/}{Window-eyes} (sep 2016).
+\newline\urlprefix\url{http://www.gwmicro.com/window-eyes/}
+
+\bibitem{job_access}
+\href{http://www.freedomscientific.com/Products/Blindness/JAWS}{Job access with
+  speech} (sep 2016).
+\newline\urlprefix\url{http://www.freedomscientific.com/Products/Blindness/JAWS}
+
+\bibitem{guideline}
+\href{http://www.w3.org/TR/CSS2/aural.html}{Guideline for the aural rendering
+  of a document} (mar 2017).
+\newline\urlprefix\url{http://www.w3.org/TR/CSS2/aural.html}
+
+\bibitem{Lynch:2014}
+D.~Lynch, C.~Howlin, Real world usage of an adaptive testing algorithm to
+  uncover late knowledge, ICERI2014 Proc. (2014) 504--511.
+
+\end{thebibliography}
